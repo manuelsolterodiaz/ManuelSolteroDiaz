@@ -23,8 +23,8 @@ Incluye la infraestructura completa del IES Horizonte, desplegada con Vagrant/Vi
 ## Documentación completa
 
 Toda la documentación detallada del proyecto se encuentra en el archivo:
-[DocumentaciónManuelSolteroDíaz.pdf](DocumentaciónManuelSolteroDíaz.pdf)
- **`DocumentaciónManuelSolteroDíaz.pdf`**
+[`DocumentaciónManuelSolteroDíaz.pdf`](DocumentaciónManuelSolteroDíaz.pdf)
+ 
 
 En él se explica paso a paso toda la infraestructura, configuraciones, diagramas, pruebas y conclusiones.
 
