@@ -17,6 +17,7 @@ Incluye la infraestructura completa del IES Horizonte, desplegada con Vagrant/Vi
 - **Scripts de automatización** en Bash y PowerShell  
 - **Aplicación Python** con interfaz gráfica (Tkinter)  
 - **Pruebas y anexos**
+- **Aplicación Web PHP** Sistema de Gestión de Notas
 
 ---
 
