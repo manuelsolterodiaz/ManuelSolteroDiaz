@@ -4,7 +4,7 @@ require_role("alumno");
 include("conexion.php");
 
 $dni = $_SESSION["dni"];
-
+ 
 $sql = "
     SELECT Asignatura.nombre AS asignatura,
            Calificaciones.nota,
