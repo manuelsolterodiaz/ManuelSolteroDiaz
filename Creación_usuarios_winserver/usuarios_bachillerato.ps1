@@ -23,7 +23,7 @@ foreach ($curso in $ouBach.Keys) {
         Get-ADOrganizationalUnit -Identity $ouPath -ErrorAction Stop
         Write-Host " OU existente: $ouPath"
     } catch {
-        Write-Warning "⚠️ OU no encontrada: $ouPath → creando..."
+        Write-Warning " OU no encontrada: $ouPath → creando..."
         New-ADOrganizationalUnit -Name "$cursoº Bachillerato" -Path "OU=Bachillerato,OU=Alumnos,$dominio"
     }
 }
